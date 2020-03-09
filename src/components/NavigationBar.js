@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 const Styles = styled.div`
   .navbar {
     background-color: #222;
-    height: 8vh;
+    height: 10vh;
   }
 
   .navbar-brand {
@@ -24,6 +24,7 @@ const Styles = styled.div`
     color: #9bf2d7;
     font-weight: 400;
     padding: 1rem 2rem;
+    margin: 0;
     &:hover {
       color: white;
     }
