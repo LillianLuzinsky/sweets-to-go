@@ -19,12 +19,15 @@ const Styles = styled.div`
       color: #ffa8ca;
     }
   }
-  
+
   .navbar-nav .nav-link {
     color: #9bf2d7;
     font-weight: 400;
     padding: 1rem 2rem;
     margin: 0;
+    &:visited {
+      color: #9bf2d7;
+    }
     &:hover {
       color: white;
     }
