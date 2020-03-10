@@ -38,7 +38,7 @@ export const PurchaseCard = styled.div`
   justify-content: center;
   align-items: center;
   width: 250px;
-  height: 60vh;
+  height: 450px;
 
   @media (max-width: 1000px) {
     margin: 1rem;
