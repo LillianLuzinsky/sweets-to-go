@@ -7,6 +7,7 @@ const Styles = styled.div`
   .navbar {
     background-color: #222;
     height: 10vh;
+    width: 100%;
   }
 
   .navbar-brand {
@@ -15,6 +16,11 @@ const Styles = styled.div`
     font-size: 1.5rem;
     padding-left: 2rem;
     letter-spacing: 1px;
+
+    &:visited {
+      color: #ffa8ca;
+    }
+
     &:hover {
       color: #ffa8ca;
     }
@@ -23,13 +29,19 @@ const Styles = styled.div`
   .navbar-nav .nav-link {
     color: #9bf2d7;
     font-weight: 400;
-    padding: 1rem 2rem;
+    padding: 1rem 1rem;
     margin: 0;
+
     &:visited {
       color: #9bf2d7;
     }
+
     &:hover {
       color: white;
+    }
+
+    @media (max-width: 1000px) {
+      background: #222;
     }
   }
 `;

@@ -17,7 +17,6 @@ export const ModalWrapper = styled.div`
   z-index: 3;
 
   @media (min-width: 500px) and (max-width: 1000px) {
-    margin: 0 10%;
     width: 600px;
   }
 `;
