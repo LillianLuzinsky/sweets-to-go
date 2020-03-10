@@ -27,14 +27,6 @@ export const PinkContainer = styled.section`
   background-color: #ffa8ca;
   height: 65vh;
   width: 100%;
-
-  @media (max-width: 1000px) {
-    display: grid;
-    justify-items: center;
-    align-items: center;
-    grid-template-columns: 1fr 1fr;
-    height: auto;
-    }
 `;
 
 export const PurchaseCard = styled.div`
