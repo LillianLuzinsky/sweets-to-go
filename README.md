@@ -1,6 +1,11 @@
 # Sweets To Go
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple dessert ordering app. 
+I produced the front end design with React Styled Components.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ## Available Scripts
 
