@@ -3,7 +3,7 @@
 This is a simple dessert ordering app. 
 I produced the front end design with React Styled Components.
 
-![Sweets to go homepage](https://lillianluzinsky.github.io/sweets-to-go/)
+![Sweets to go homepage](https://lillianluzinsky.github.io/website/images/Sweets/Sweets.gif)
 ## Deployment
 You can view the demo in this link:
 https://lillianluzinsky.github.io/sweets-to-go/
