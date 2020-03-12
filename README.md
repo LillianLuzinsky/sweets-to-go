@@ -32,15 +32,24 @@ button and a modal will appear with a short message.<br>
 <br>
 Finally, this app includes an Account page, where you can see your purchase history
 
-# Things I enjoyed
+## Things I enjoyed
 
 This is one of my first projects using React. I discovered styled-components and 
 absolutely loved it. It makes styling a multipage website a lot more consistant 
 and easier to keep track than adding all the stylings into the App.css file.
 
-# Challenges
+## Challenges
 
 1) Initially, this was going to be a full stack app that uses 
 Rails for back end and React for front end. As this was a group project,
 I concentrated mostly giving our app presence through the front end design.
 I didn't have the opportunity to work on the back end as much I would've liked to.
+<br>
+2) Used React Bootstrap to create a responsive navbar.
+This caused issues for login and logout, as I was using "href" instead of "Link to".
+This also created issues uploading react app in github pages.
+<br>
+3) Learned how to work in a team as a developer. We did have some minor
+merge conflicts, but fortunately, they were very few.
+<br>
+Overall, this was a great learning experience as a student working with other classmates.
