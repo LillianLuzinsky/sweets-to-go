@@ -18,6 +18,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ![Sweets to go gif](https://lillianluzinsky.github.io/website/images/Sweets/Sweets.gif)
 
 # How it works
-First, you see the homepage with one button to 'Make An Order'.
-Click on it and it will send you to the login page. 
-If you don't have an account, you can always click on the sign-up link.
+First, you see the homepage with one button to 'Make An Order'.<br>
+Click on it and it will send you to the login page. <br>
+If you don't have an account, you can always click on the sign-up link.<br>
