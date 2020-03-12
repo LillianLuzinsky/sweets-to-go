@@ -3,21 +3,14 @@
 This is a simple dessert ordering app. 
 I produced the front end design with React Styled Components.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-## Available Scripts
-
-In the project directory, you can run:
+## Deployment
+You can view the demo in this link:
+https://lillianluzinsky.github.io/sweets-to-go/
 
 ### `yarn start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
 ### `yarn test`
 
