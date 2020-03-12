@@ -49,5 +49,5 @@ This caused issues for login and logout, as I was using "href" instead of "Link 
 This also created issues uploading react app in github pages.
 3) Learned how to work in a team as a developer. We did have some minor
 merge conflicts, but fortunately, they were very few.
-<br><br>
+
 ### Overall, I'm happy with the results we achieved in only 2 weeks.
