@@ -17,7 +17,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ![Sweets to go gif](https://lillianluzinsky.github.io/website/images/Sweets/Sweets.gif)
 
+![Sweets to go gif](https://lillianluzinsky.github.io/website/images/Tic%20Tac%20Toe/start.png)
+
 # How it works
 First, you see the homepage with one button to 'Make An Order'.<br>
 Click on it and it will send you to the login page. <br>
 If you don't have an account, you can always click on the sign-up link.<br>
+<br>
+Once, you've signed in, you see the menu page. The menu should be fetched 
+from our back end, but this is only a front end example.<br>
+When you choose a menu item and you click 'Add to cart', you see the purchase page.<br>
