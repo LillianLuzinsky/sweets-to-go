@@ -24,4 +24,10 @@ If you don't have an account, you can always click on the sign-up link.<br>
 <br>
 Once, you've signed in, you see the menu page. The menu should be fetched 
 from our back end, but this is only a front end example.<br>
+<br>
 When you choose a menu item and you click 'Add to cart', you see the purchase page.<br>
+In this page, you can add or subtract quantities of your chosen dessert. 
+Once, you're happy with your purchase, you can click on the 'Confirm Purchase'
+button and a modal will appear with a short message.<br>
+<br>
+
