@@ -16,7 +16,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ![Sweets to go menu](https://lillianluzinsky.github.io/website/images/Sweets/Menu.png)
 
 ![Sweets to go gif](https://lillianluzinsky.github.io/website/images/Sweets/Sweets.gif)
-img[src~="bordered"] {
+img[src~="https://lillianluzinsky.github.io/website/images/Sweets/Sweets.gif"] {
    border: 1px solid black;
    border-radius: 30px;
 }
