@@ -11,13 +11,9 @@ https://lillianluzinsky.github.io/sweets-to-go/
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-![Sweets to go homepage](https://lillianluzinsky.github.io/website/images/Sweets/Home.png)
+---
 
-![Sweets to go menu](https://lillianluzinsky.github.io/website/images/Sweets/Menu.png)
-
-![Sweets to go gif](https://lillianluzinsky.github.io/website/images/Sweets/Sweets.gif)
-
-# How it works
+## How it works
 First, you see the homepage with one button to 'Make An Order'.<br>
 Click on it and it will send you to the login page. <br>
 If you don't have an account, you can always click on the sign-up link.<br>
@@ -31,6 +27,24 @@ Once, you're happy with your purchase, you can click on the 'Confirm Purchase'
 button and a modal will appear with a short message.<br>
 <br>
 Finally, this app includes an Account page, where you can see your purchase history
+
+---
+
+## Used Technologies
+
+1) ReactJS
+
+---
+
+### Screenshots
+
+![Sweets to go homepage](https://lillianluzinsky.github.io/website/images/Sweets/Home.png)
+
+![Sweets to go menu](https://lillianluzinsky.github.io/website/images/Sweets/Menu.png)
+
+![Sweets to go gif](https://lillianluzinsky.github.io/website/images/Sweets/Sweets.gif)
+
+---
 
 ## Things I enjoyed
 
