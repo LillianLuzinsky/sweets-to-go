@@ -15,10 +15,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## How it works
 Since this is only a front end design, I will explain the workings of the app 
-as if it we have a database to fetch the menu items from.
+as if we have a database to fetch the menu items from.
 <br><br>
 First, you will see the homepage which has only one button to press.<br>
-Click on it and it will send you to the login page. <br>
+Click on it and it will send you to the login page.<br>
 If you don't have an account, you can click on the sign-up link.
 Once, you've signed in, you see the menu page.
 <br><br>
