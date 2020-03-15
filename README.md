@@ -20,7 +20,7 @@ as if we have a database to fetch the menu items from.
 First, you will see the homepage which has only one button to press.<br>
 Click on it and it will send you to the login page.<br>
 If you don't have an account, you can click on the sign-up link.
-Once, you've signed in, you see the menu page.
+Once signed in, you'll see the menu page.
 <br><br>
 When you choose a menu item by clicking 'Add to cart', you will see the purchase page.<br>
 In this page, you can add or subtract quantities of your chosen dessert. 
