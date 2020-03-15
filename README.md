@@ -14,25 +14,27 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ---
 
 ## How it works
-First, you see the homepage with one button to 'Make An Order'.<br>
+Since this is only a front end design, I will explain the workings of the app 
+as if it we have a database to fetch the menu items from.
+<br><br>
+First, you will see the homepage which has only one button to press.<br>
 Click on it and it will send you to the login page. <br>
-If you don't have an account, you can always click on the sign-up link.<br>
-<br>
-Once, you've signed in, you see the menu page. The menu should be fetched 
-from our back end, but this is only a front end example.<br>
-<br>
-When you choose a menu item and you click 'Add to cart', you see the purchase page.<br>
+If you don't have an account, you can click on the sign-up link.
+Once, you've signed in, you see the menu page.
+<br><br>
+When you choose a menu item by clicking 'Add to cart', you will see the purchase page.<br>
 In this page, you can add or subtract quantities of your chosen dessert. 
-Once, you're happy with your purchase, you can click on the 'Confirm Purchase'
-button and a modal will appear with a short message.<br>
+When you're satisfied with your purchase, click on the 'Confirm Purchase'
+button, and a modal will appear with a short message.<br>
 <br>
-Finally, this app includes an Account page, where you can see your purchase history
+Additionally, this app includes an Account page, where you can see your purchase history.
 
 ---
 
 ## Used Technologies
 
 1) ReactJS
+2) React Bootstrap
 
 ---
 
@@ -50,18 +52,18 @@ Finally, this app includes an Account page, where you can see your purchase hist
 
 This is one of my first projects using React. I discovered styled-components and 
 absolutely loved it. It makes styling a multipage website a lot more consistant 
-and easier to keep track than adding all the stylings into the App.css file.
+and easier to keep track of, instead of adding all the stylings into the App.css file.
 
 ## Challenges
 
 1) Initially, this was going to be a full stack app that uses 
 Rails for back end and React for front end. As this was a group project,
-I concentrated mostly giving our app presence through the front end design.
+I concentrated on giving our app presence through the front end design.
 I didn't have the opportunity to work on the back end as much I would've liked to.
 2) Used React Bootstrap to create a responsive navbar.
 This caused issues for login and logout, as I was using "href" instead of "Link to".
 This also created issues uploading react app in github pages.
-3) Learned how to work in a team as a developer. We did have some minor
+3) Learned how to work with a team as a developer. We did have some minor
 merge conflicts, but fortunately, they were very few.
 
-### Overall, I'm happy with the results we achieved in only 2 weeks.
+### Overall, I'm very happy with the results we achieved in only 2 weeks.
