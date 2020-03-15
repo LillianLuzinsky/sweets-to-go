@@ -52,7 +52,8 @@ where you can see your purchase history.
 ## Things I enjoyed
 
 This is one of my first projects using React. I discovered styled-components and 
-absolutely loved it. It makes styling a multipage website a lot more consistant 
+absolutely loved it. <br>
+It makes styling a multipage website a lot more consistant 
 and easier to keep track of, instead of adding all the stylings into the App.css file.
 
 ## Challenges
