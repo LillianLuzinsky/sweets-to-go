@@ -19,15 +19,16 @@ as if we have a database to fetch the menu items from.
 <br><br>
 First, you will see the homepage which has only one button to press.<br>
 Click on it and it will send you to the login page.<br>
-If you don't have an account, you can click on the sign-up link.
+If you don't have an account, you can click on the sign-up link.<br>
 Once signed in, you'll see the menu page.
 <br><br>
 When you choose a menu item by clicking 'Add to cart', you will see the purchase page.<br>
-In this page, you can add or subtract quantities of your chosen dessert. 
-When you're satisfied with your purchase, click on the 'Confirm Purchase'
+On this page, you can add or subtract quantities of your chosen dessert. 
+When you're satisfied with your purchase, click the 'Confirm Purchase'
 button, and a modal will appear with a short message.<br>
 <br>
-Additionally, this app includes an Account page, where you can see your purchase history.
+Additionally, this app includes an Account page, 
+where you can see your purchase history.
 
 ---
 
