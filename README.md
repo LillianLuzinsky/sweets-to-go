@@ -61,10 +61,10 @@ and easier to keep track of, instead of adding all the stylings into the App.css
 1) Initially, this was going to be a full stack app that uses 
 Rails for back end and React for front end. As this was a group project,
 I concentrated on giving our app presence through the front end design.
-I didn't have the opportunity to work on the back end as much I would've liked to.
+I didn't have the opportunity to work on the back end as much I would've liked to.<br><br>
 2) Used React Bootstrap to create a responsive navbar.
 This caused issues for login and logout, as I was using "href" instead of "Link to".
-This also created issues uploading react app in github pages.
+This also created issues uploading react app in github pages.<br><br>
 3) Learned how to work with a team as a developer. We did have some minor
 merge conflicts, but fortunately, they were very few.
 
