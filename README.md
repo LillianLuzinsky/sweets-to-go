@@ -36,6 +36,8 @@ where you can see your purchase history.
 
 1) ReactJS
 2) React Bootstrap
+3) React Styled Components
+4) CSS
 
 ---
 
